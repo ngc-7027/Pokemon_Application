@@ -1,0 +1,44 @@
+.pokemon-name {
+	font-family: Arial;
+	font-size: 21px;
+	line-height: 35px;
+	width: 300px;
+	height: 40px;
+	margin: 50px;
+	padding: 3px 10px;
+	float: left;
+	background: #fafafa;
+	border: 1px solid #b1b1b1;
+}
+
+.button {
+	font-family: Arial;
+	font-size: 21px;
+	line-height: 35px;
+	width: 750px;
+	height: 55px;
+	margin: 50px;
+	padding: 3px 10px;
+	float: left;
+}
+
+.container {
+	width: 100%;
+	float: left;
+}
+
+.pokemon-info {
+	font-family: Arial;
+	font-size: 25px;
+	line-height: 35px;
+	width: 33%;
+	min-height: 250px;
+	margin: 50px;
+	padding: 0 25px;
+	float: left;
+	background: #faedda;
+	border: 2px solid #725652;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+}
